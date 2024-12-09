@@ -1,0 +1,10 @@
+#ignore this in github
+first_agent
+poetry.lock
+
+# environment variables
+.env
+.env_example
+
+#Cache folders
+__pycache__/
